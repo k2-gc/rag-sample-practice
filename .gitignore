@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+sample.py
+query_sample.txt
+*.bin
+*.gguf
